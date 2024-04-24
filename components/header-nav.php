@@ -32,7 +32,7 @@
         <li><a href="https://lankatourdriver.com/sri-lanka-airport-taxi-transfer-rates">Airport Taxi</a></li>
         <li><a href="https://lankatourdriver.com/contact-lanka-tour-driver">Contact</a></li>
         <li><a href="https://lankatourdriver.com/faq">FAQ</a></li>
-        <li><a href="https://lankatourdriver.com/blogs">Blog</a></li>
+        <li><a href="https://lankatourdriver.com/blog">Blog</a></li>
         <li class="whatsapp_dk"><a href="https://api.whatsapp.com/send?phone=94777732529" class="nounderline">
             <img style="margin-right: 4px;" alt="Whatsapp"
               src="https://lankatourdriver.com/assets/img/lankatourdriver-wp-icon.png" />+94 777 732 529</a>
